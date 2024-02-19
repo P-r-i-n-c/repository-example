@@ -13,6 +13,7 @@ Este es un proyecto increíble que hace cosas asombrosas.
 1. Clona este repositorio:
 
 ``` shell
+git clone https://github.com/P-r-i-n-c/repository-example.git
 
 ```
 
